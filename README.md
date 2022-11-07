@@ -3,4 +3,4 @@
 Password checker with api communication with pwned to check if you have a leaked password 
 Python Needed to be able to run.
 Locate the file in cmd via cd (Change directory), then you will need to type.    python passwordchecker.py passwordhere
-![image](https://user-images.githubusercontent.com/116701630/200211462-438cf7b9-bd75-48f7-86a8-29908bf529ed.png)
+
